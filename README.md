@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Kevin Ishimwe
 
-<!--
-**likquevin/likquevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught software developer from Rwanda with a strong focus on
+software engineering, backend systems, and full-stack web development.
 
-Here are some ideas to get you started:
+Despite limited resources, I have independently designed and implemented
+production-style web applications, including online learning platforms
+with live classrooms and automated assessments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Backend: PHP, MySQL
+- Frontend: HTML5, CSS3, JavaScript
+- Real-time Systems: WebSocket, WebRTC
+- System Design: Authentication, Role-based Access, Database Modeling
+
+### Selected Projects
+- Online School Platform (Live Classroom, Assessments, Auto-Grading)
+- News & Research Content Management System
+
+### Current Objective
+To pursue a Bachelor's degree in Software Engineering or Computer Science
+through a fully funded international scholarship, and later specialize in
+Artificial Intelligence and intelligent systems.
+
+### Long-Term Vision
+To build scalable and intelligent digital platforms that improve access
+to education and information in low-resource environments.
