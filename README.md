@@ -1,4 +1,4 @@
-## Hi, I'm Kevin Ishimwe 👋
+## Hi, I'm Kevin Ishimwe 
 
 I'm a self-taught software developer from Rwanda with a strong interest in
 software engineering, system design, and scalable web platforms.
